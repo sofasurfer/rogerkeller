@@ -15,7 +15,7 @@ robots.txt
 
 /site/cache/*
 !/site/cache/index.html
-
+*.xyz.code-workspace
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
