@@ -1,6 +1,6 @@
-# GlipLab
+# RogerKeller
 
-WebSite for cliplab.ch
+Kirby Site for rogerkeller.xyz 
 
 
 
