@@ -2,11 +2,11 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">          
-          <a class="pull-left" href="mailto:rogerkeller.xyz">info@rogerkeller.xyz</a>
+          <a class="pull-left" href="mailto:info@rogerkeller.xyz">E-Mail</a>
         </div>
         <div class="col-md-6">
             <p class="pull-right social">
-              <a target="_blank" href="https://cliplab.ch">archive work</a>
+              <a target="_blank" href="https://cliplab.ch">Archive</a>
             </p>
         </div>
       </div>
