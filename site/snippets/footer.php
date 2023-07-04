@@ -1,13 +1,11 @@
   <footer>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">          
-          <a class="pull-left" href="mailto:info@rogerkeller.xyz">E-Mail</a>
-        </div>
         <div class="col-md-6">
-            <p class="pull-right social">
-              <a target="_blank" href="https://cliplab.ch">Archive</a>
-            </p>
+          <?php echo $site->footerLeft()->kirbytext(); ?>
+        </div>
+        <div class="col-md-6 pull-right" >
+              <?php echo $site->footerRight()->kirbytext(); ?>
         </div>
       </div>
     </div>

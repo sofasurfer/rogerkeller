@@ -260,6 +260,10 @@ footer .social a{
   padding-left: 10px;
 }
 
+.pull-right a{
+  float: right;
+}
+
 /*body.error footer,
 body.contact footer,*/
 body.home footer{

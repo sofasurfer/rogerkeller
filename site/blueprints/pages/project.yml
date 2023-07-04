@@ -33,6 +33,10 @@ columns:
       text:
         label: Text
         type:  textarea
+        
+      metadesk:
+        label: Meta Description
+        type:  text
 
   - width: 1/3
     sections:      
